@@ -1,0 +1,14 @@
+body{
+    background:radial-gradient( salmon,teal ) ;
+    color:white;
+}
+.heading{
+    width:80%;
+    font-size:30px;
+
+}
+#result,#camera{
+    border:2px dashed teal;
+width:350px;
+height:300px;
+}
